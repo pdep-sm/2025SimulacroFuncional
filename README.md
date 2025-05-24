@@ -1,7 +1,3 @@
-# ejercicio-alumno
+# Parcial de Funcional
 
-## Integrantes
-
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+## [Enunciado](https://docs.google.com/document/d/1wajOMZ0t3uq-gmdteDkjfKliSLw4ICbzyLnfXq2dd-8/edit?usp=sharing)
