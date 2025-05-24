@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "2025SimulacroFuncional:lib"
+
+    - path: "./test"
+      component: "2025SimulacroFuncional:test:2025SimulacroFuncional-test"
